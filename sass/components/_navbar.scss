@@ -1,0 +1,28 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+
+    ul {
+        li {
+            a {
+                font-size: 18px;
+                font-weight: 600;
+                text-transform: capitalize;
+                color: white;
+                padding: 0 30px;
+                transition: .3s;
+                -webkit-transition: .3s;
+                -moz-transition: .3s;
+                -ms-transition: .3s;
+                -o-transition: .3s;
+
+                &:hover {
+                    color: #FFC178;
+                }
+            }
+        }
+    }
+}

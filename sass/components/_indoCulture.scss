@@ -1,0 +1,29 @@
+#indoCulture {
+    padding: 290px 0 200px 0;
+
+    .content {
+        h5 {
+            @include mini_heading;
+        }
+
+        h3 {
+            @include heading;
+            margin: 19px 0
+        }
+
+        p {
+            @include paragraph;
+        }
+
+        a {
+            @include button;
+            margin-top: 47px;
+        }
+    }
+
+    .img {
+        img {
+            width: 100%;
+        }
+    }
+}

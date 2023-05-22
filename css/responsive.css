@@ -1,0 +1,536 @@
+@media (min-width: 1400px) {
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 290px 0;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 120px 0;
+    }
+
+    #holyday .img {
+        padding-right: 20;
+    }
+
+    #holyday .content {
+        padding-left: 20;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 210px 0 50px 0;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 150px 0 120px 0;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 290px 0;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 120px 0;
+    }
+
+    #holyday .img {
+        padding-right: 20;
+    }
+
+    #holyday .content {
+        padding-left: 20;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 210px 0 50px 0;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 150px 0 120px 0;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 270px 0;
+    }
+
+    #banner .overlay .content h4 {
+        font-size: 78px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 120px 0;
+    }
+
+    #holyday .img {
+        padding-right: 0;
+    }
+
+    #holyday .content {
+        padding-left: 0;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 210px 0 50px 0;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 150px 0 120px 0;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ===navbar part start === */
+    #navbar ul {
+        background-color: black;
+        text-align: center;
+    }
+
+    #navbar ul li a {
+        padding: 10px 0;
+    }
+
+    #navbar ul li a:hover {
+        color: #FFC178;
+    }
+
+    .togoller_icon i {
+        color: white;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0px 0px 0px 3px white;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 230px 0;
+        text-align: center;
+    }
+
+    #banner .overlay .content h3 {
+        line-height: 28px;
+    }
+
+    #banner .overlay .content h1 {
+        font-size: 70px;
+    }
+
+    #banner .overlay .content h4 {
+        font-size: 65px;
+        margin-top: 5px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 90px 0;
+        text-align: center;
+    }
+
+    #holyday .img {
+        padding-right: 0;
+    }
+
+    #holyday .content {
+        padding-left: 0;
+    }
+
+    #holyday .content h5 {
+        line-height: 28px;
+    }
+
+    #holyday .content h3 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    #holyday .content a {
+        margin-top: 40px;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 160px 0 50px 0;
+    }
+
+    #climb_together .image .overlay .content h3 {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 100px 0 100px 0;
+        text-align: center;
+    }
+
+    #indoCulture .content h5 {
+        line-height: 28px;
+    }
+
+    #indoCulture .content h3 {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+    #indoCulture .img img {
+        margin-top: 50px;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+    #footer {
+        text-align: center;
+    }
+
+    #footer .footerTop h6 {
+        margin: 30px 0;
+    }
+
+    #footer .footerBottom .left h5 {
+        font-size: 36px;
+    }
+
+    #footer .footerBottom .left .icons {
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    #footer .copyright p {
+        margin-top: 80px;
+    }
+
+    /* ===#footer part end === */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ===navbar part start === */
+    #navbar ul {
+        background-color: black;
+        text-align: center;
+    }
+
+    #navbar ul li a {
+        padding: 10px 0;
+    }
+
+    #navbar ul li a:hover {
+        color: #FFC178;
+    }
+
+    .togoller_icon i {
+        color: white;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0px 0px 0px 3px white;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 200px 0;
+        text-align: center;
+    }
+
+    #banner .overlay .content h3 {
+        line-height: 28px;
+    }
+
+    #banner .overlay .content h1 {
+        font-size: 55px;
+    }
+
+    #banner .overlay .content h4 {
+        font-size: 50px;
+        margin-top: 0px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 90px 0;
+        text-align: center;
+    }
+
+    #holyday .img {
+        padding-right: 0;
+    }
+
+    #holyday .content {
+        padding-left: 0;
+    }
+
+    #holyday .img img {
+        margin-top: 50px;
+    }
+
+    #holyday .content h5 {
+        line-height: 28px;
+    }
+
+    #holyday .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    #holyday .content a {
+        margin-top: 40px;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 120px 0 50px 0;
+    }
+
+    #climb_together .image .overlay .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 100px 0 100px 0;
+        text-align: center;
+    }
+
+    #indoCulture .content h5 {
+        line-height: 28px;
+    }
+
+    #indoCulture .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    #indoCulture .img img {
+        margin-top: 50px;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+    #footer {
+        text-align: center;
+    }
+
+    #footer .footerTop h6 {
+        margin: 30px 0;
+    }
+
+    #footer .footerBottom .left h5 {
+        font-size: 32px;
+    }
+
+    #footer .footerBottom .left .icons {
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    #footer .copyright p {
+        margin-top: 80px;
+    }
+
+    /* ===#footer part end === */
+}
+
+@media (max-width: 575.98px) {
+
+    /* ===navbar part start === */
+    #navbar ul {
+        background-color: black;
+        text-align: center;
+    }
+
+    #navbar ul li a {
+        padding: 10px 0;
+    }
+
+    #navbar ul li a:hover {
+        color: #FFC178;
+    }
+
+    .togoller_icon i {
+        color: white;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0px 0px 0px 3px white;
+    }
+
+    /* ===navbar part end === */
+
+    /* ===banner part start === */
+    #banner .overlay {
+        padding: 200px 0;
+        text-align: center;
+    }
+
+    #banner .overlay .content h3 {
+        line-height: 28px;
+    }
+
+    #banner .overlay .content h1 {
+        font-size: 55px;
+    }
+
+    #banner .overlay .content h4 {
+        font-size: 50px;
+        margin-top: 0px;
+    }
+
+    /* ===banner part end === */
+
+    /* ===holyday part start === */
+    #holyday {
+        padding: 90px 0;
+        text-align: center;
+    }
+
+    #holyday .img {
+        padding-right: 0;
+    }
+
+    #holyday .content {
+        padding-left: 0;
+    }
+
+    #holyday .img img {
+        margin-top: 50px;
+    }
+
+    #holyday .content h5 {
+        line-height: 28px;
+    }
+
+    #holyday .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    #holyday .content a {
+        margin-top: 40px;
+    }
+
+    /* ===holyday part end === */
+
+    /* ===climb together part start === */
+    #climb_together .image .overlay {
+        padding: 120px 0 50px 0;
+    }
+
+    #climb_together .image .overlay .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    /* ===climb together part end === */
+
+    /* ===indo culture part start === */
+    #indoCulture {
+        padding: 100px 0 100px 0;
+        text-align: center;
+    }
+
+    #indoCulture .content h5 {
+        line-height: 28px;
+    }
+
+    #indoCulture .content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    #indoCulture .img img {
+        margin-top: 50px;
+    }
+
+    /* ===indo culture part end === */
+
+    /* ===#footer part start === */
+    #footer {
+        text-align: center;
+    }
+
+    #footer .footerTop h6 {
+        margin: 30px 0;
+    }
+
+    #footer .footerBottom .left h5 {
+        font-size: 32px;
+    }
+
+    #footer .footerBottom .left .icons {
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    #footer .copyright p {
+        margin-top: 80px;
+    }
+
+    /* ===#footer part end === */
+}

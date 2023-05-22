@@ -1,0 +1,34 @@
+#holyday {
+    padding: 300px 0;
+
+    .img {
+        padding-right: 25px;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .content {
+        padding-left: 30px;
+
+        h5 {
+            @include mini_heading;
+            margin-bottom: 13px;
+        }
+
+        h3 {
+            @include heading;
+        }
+
+        p {
+            @include paragraph;
+            margin-top: 13px;
+        }
+
+        a {
+            @include button;
+            margin-top: 66px;
+        }
+    }
+}

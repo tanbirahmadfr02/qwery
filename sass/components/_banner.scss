@@ -1,0 +1,29 @@
+#banner {
+    background: url(../img/banner.jpg) no-repeat center / cover;
+
+    .overlay {
+        padding: 462px 0;
+        background-color: rgba(0, 0, 0, 0.245);
+
+        .content {
+            h3 {
+                @include mini_heading;
+            }
+
+            h1 {
+                font-size: 96px;
+                font-weight: 700;
+                line-height: 100px;
+                color: white;
+                margin-top: 37px;
+            }
+
+            h4 {
+                font-size: 88px;
+                font-weight: 400;
+                color: white;
+                margin-top: 37px;
+            }
+        }
+    }
+}

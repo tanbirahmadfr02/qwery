@@ -1,0 +1,29 @@
+@mixin mini_heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: $colorOrange;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+@mixin heading {
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    line-height: 80px;
+}
+
+@mixin paragraph {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    color: white;
+}
+
+@mixin button {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: auto;
+    color: $colorOrange;
+    text-transform: capitalize;
+}

@@ -1,0 +1,33 @@
+#climb_together {
+    .image {
+        background: url(../img/bromo.jpg) no-repeat center / cover;
+
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.2);
+            padding: 560px 0 33px 0;
+
+            .content {
+                text-align: center;
+
+                h4 {
+                    @include mini_heading;
+                    margin-bottom: 13px;
+                }
+
+                h3 {
+                    @include heading;
+                    margin-bottom: 13px;
+                }
+
+                p {
+                    @include paragraph;
+                    margin-bottom: 26px;
+                }
+
+                a {
+                    @include button;
+                }
+            }
+        }
+    }
+}
